@@ -1,0 +1,17 @@
+{
+  "name": "binary-trees-vanilla-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenOfYugen/binary-trees-vanilla-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenOfYugen/binary-trees-vanilla-node/issues"
+  },
+  "homepage": "https://github.com/kenOfYugen/binary-trees-vanilla-node#readme"
+}
